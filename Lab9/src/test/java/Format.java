@@ -1,0 +1,3 @@
+enum Format {
+    CSV, XML
+}
